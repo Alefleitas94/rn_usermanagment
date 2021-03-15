@@ -56,7 +56,7 @@ export default function App() {
       return currentUsers.filter((user) => user.id !== id);
     });
   };
-
+// hide keyboard
 const hideKeyboard = () => {
   Keyboard.dismiss();
 }
