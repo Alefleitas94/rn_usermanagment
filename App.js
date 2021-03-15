@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
     alignSelf: "center",
   },
   textShowForm: {
-    fontSize: 17,
+    fontSize: 18,
     textAlign: "center",
     fontWeight: "bold",
     color: "#fff",
